@@ -1,0 +1,6 @@
+@BarbourLogicDevTask1_HostAddress = http://localhost:5193
+
+GET {{BarbourLogicDevTask1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

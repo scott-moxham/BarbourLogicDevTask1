@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarbourLogicDevTask1", "BarbourLogicDevTask1\BarbourLogicDevTask1.csproj", "{C8440D8B-8C23-4EB1-B1A1-D83BA4B3E584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8440D8B-8C23-4EB1-B1A1-D83BA4B3E584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8440D8B-8C23-4EB1-B1A1-D83BA4B3E584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8440D8B-8C23-4EB1-B1A1-D83BA4B3E584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8440D8B-8C23-4EB1-B1A1-D83BA4B3E584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC4B169-8533-45C1-A26F-25614BE1C5FF}
+	EndGlobalSection
+EndGlobal
